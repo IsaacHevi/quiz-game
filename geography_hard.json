@@ -1,0 +1,362 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries are larger than Australia?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many independent countries are there within the continent of South America?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is NOT a capital city?",
+        "correct_answer": "Sydney",
+        "incorrect_answers": [
+            "Cairo",
+            "Moscow",
+            "Beijing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Greenland?",
+        "correct_answer": "Nuuk",
+        "incorrect_answers": [
+            "Sisimiut",
+            "Narsaq",
+            "Maniitsoq"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Lake Titicaca is located between which two nations?",
+        "correct_answer": "Peru and Bolivia",
+        "incorrect_answers": [
+            "Kenya and Uganda",
+            "Mexico and the United States",
+            "India and Bangladesh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the fifth largest country by area?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "United States",
+            "Australia",
+            "India"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+        "correct_answer": "Pakistan",
+        "incorrect_answers": [
+            "Iran",
+            "Turkey",
+            "Azerbaijan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+        "correct_answer": "Yugoslavia",
+        "incorrect_answers": [
+            "Czechoslovakia",
+            "Abkhazia",
+            "South Ossetia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What event led to Liechenstein adding a crown to its flag?",
+        "correct_answer": "The 1936 Olympics",
+        "incorrect_answers": [
+            "Coronation of Prince Johann I Joseph in 1805",
+            "Charles VI&#039;s decree in 1719",
+            "Signing of the 1862 Constitution of Liechtenstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+        "correct_answer": "Thailand",
+        "incorrect_answers": [
+            "Peru",
+            "Mexico",
+            "South Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is Hadrian&#039;s Wall located?",
+        "correct_answer": "Carlisle, England",
+        "incorrect_answers": [
+            "Rome, Italy",
+            "Alexandria, Egypt",
+            "Dublin, Ireland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many rivers are in Saudi Arabia?",
+        "correct_answer": "0",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How tall is One World Trade Center in New York City?",
+        "correct_answer": "1,776 ft",
+        "incorrect_answers": [
+            "1,888 ft",
+            "1,225 ft",
+            "1,960 ft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries does Spain have a land border with?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What city is the Terracotta Army located in?",
+        "correct_answer": "Xi&#039;an",
+        "incorrect_answers": [
+            "Beijing",
+            "Shanghai",
+            "Hong Kong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is NOT located in Africa?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Burkina Faso",
+            "Mozambique",
+            "Algeria"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What mountain range lines the border between Spain and France?",
+        "correct_answer": "Pyrenees",
+        "incorrect_answers": [
+            "Alps",
+            "Carpathians",
+            "Urals"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Japanese district Akihabara is also known by what nickname?",
+        "correct_answer": "Electric Town",
+        "incorrect_answers": [
+            "Moon Walk River",
+            "Otaku Central ",
+            "Big Eyes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+        "correct_answer": "Bangladesh",
+        "incorrect_answers": [
+            "Malaysia",
+            "Vietnam",
+            "Philippines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+            "Scotland",
+            "Ireland",
+            "Isle of Wight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is the longest river in Europe?",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+            "Danube",
+            "Ural",
+            "Dnieper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is the area commonly known as the Bermuda Triangle?",
+        "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+        "incorrect_answers": [
+            "North Pacific Ocean, between Japan and the USA",
+            "In the Caribbean Sea",
+            "South Pacific Ocean, far off Chile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the largest lake in the African continent?",
+        "correct_answer": "Lake Victoria",
+        "incorrect_answers": [
+            "Lake Tanganyika",
+            "Lake Malawi",
+            "Lake Turkana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries are inside the United Kingdom?",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+            "Two",
+            "Three",
+            "One"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital city of Slovenia?",
+        "correct_answer": "Ljubljana",
+        "incorrect_answers": [
+            "Maribor",
+            "Velenje",
+            "Trbovlje"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the name of the capital of Turkey?",
+        "correct_answer": "Ankara",
+        "incorrect_answers": [
+            "Istanbul",
+            "Izmir",
+            "Bursa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The land of Gotland is located in which European country?",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+            "Denmark",
+            "Norway",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What African country has Portuguese as its official language?",
+        "correct_answer": "Mozambique",
+        "incorrect_answers": [
+            "Botswana",
+            "Gabon",
+            "Togo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these is NOT an island that is part of the Philippines?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Luzon",
+            "Mindanao",
+            "Palawan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these country&#039;s capitals starts with the letter B?",
+        "correct_answer": "Lebanon",
+        "incorrect_answers": [
+            "Jordan",
+            "Kuwait",
+            "Qatar"
+        ]
+    }
+]
